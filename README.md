@@ -29,7 +29,7 @@ Correr la aplicación
 npm run start
 ```
 # Visualicación en tiempo real
- [Miralo aquí](https://anondoor-nodejs-webpage.vercel.app/)
+# [Mira la página web aquí](https://anondoor-nodejs-webpage.vercel.app/)
 
 *Laptop*
 ![alt text](https://github.com/practicaldev101/anondoor-nodejs-webpage/blob/master/docs/Laptop.png)
