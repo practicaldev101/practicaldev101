@@ -1,38 +1,9 @@
-# ANONDOOR Cyber Security Web Site
+# Practical Dev, también conocido Practical Programmer
 
-Sitio web tipo Landing page de empresa o taller ANONDOOR mediante un servidor NodeJS (Express).
+Es un apasionado por la tecnología, experimenta cada día en ambitos de la seguridad cibernetica, o el desarrollo de software.
+!Nada es aburrido cuando la pones interés!
 
-Se compone de mucha implementación en el Front-End, y pequeñas funcionalidades en el Backend
-con ayuda de frameworks.
+# Redes sociales
+!Puedes seguirme en instagram y muy pronto en mi canal de youtube!
 
-Diseño creado por [Practical Dev](https://github.com/practicaldev101/)
-
-# Instalación y ejecución
-```
-git clone https://github.com/practicaldev101/anondoor-nodejs-webpage.git
-```
-
-```
-cd anondoor-nodejs-webpage/
-```
-
-```
-cd src/
-```
-
-```
-npm install
-```
-
-Correr la aplicación
-```
-npm run start
-```
-# Visualicación en tiempo real
-# [Mira la página web aquí](https://anondoor-nodejs-webpage.vercel.app/)
-
-*Laptop*
-![alt text](https://github.com/practicaldev101/anondoor-nodejs-webpage/blob/master/docs/Laptop.png)
-
-*Dispositivo móvil*
-![alt text](https://github.com/practicaldev101/anondoor-nodejs-webpage/blob/master/docs/Iphone12.png)
+[Intagram](https://www.instagram.com/practical_dev/)
