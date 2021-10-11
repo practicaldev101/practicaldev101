@@ -7,15 +7,32 @@ con ayuda de frameworks.
 
 Diseño creado por [Practical Dev](https://github.com/practicaldev101/)
 
-# Alojamiento
+# Instalación y ejecución
+```
+git clone https://github.com/practicaldev101/anondoor-nodejs-webpage.git
+```
 
+```
+cd anondoor-nodejs-webpage/
+```
 
+```
+cd src/
+```
 
+```
+npm install
+```
 
+Correr la aplicación
+```
+npm run start
+```
+# Visualicación en tiempo real
+ [Miralo aquí](https://anondoor-nodejs-webpage.vercel.app/)
 
-
-
-# Visualización previa
-
-
+*Laptop*
 ![alt text](https://github.com/practicaldev101/anondoor-nodejs-webpage/blob/master/docs/Laptop.png)
+
+*Dispositivo móvil*
+![alt text](https://github.com/practicaldev101/anondoor-nodejs-webpage/blob/master/docs/Iphone12.png)
