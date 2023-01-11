@@ -34,7 +34,7 @@ Some adittional information:
 
 - I'm autodidact 🔺 **Ethical Hacker** 🔺.
 - I love studying about 🔺 **Cyber Security** 🔺.
-- I've participated in a Hackathon in [p4s.co](https://p4s.co)
+- I've participated in a Hackathon in [Parnerts for Startups - p4s.co](https://p4s.co)
 
 <div id="status" align="center">
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark">    
