@@ -8,6 +8,9 @@
   <a href="https://www.instagram.com/practical_dev/">
      <img src="https://img.shields.io/badge/Intagram-black?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Account"/>
   </a>
+  <a href="https://www.linkedin.com/in/carlos-mauricio-ospino-monsalve-383a42227/">
+     <img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkeIn account"/>
+  </a>
   <a href="https://www.tiktok.com/@practicalprogrammer">
      <img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white&style=for-the-badge" alt="TikTok account"/>
   </a>
@@ -26,6 +29,12 @@
 ## About me
 
 I'm **Full-Stack Developer** 💻 from Colombia 🇨🇴. I really like coffe!
+
+Some adittional information:
+
+- I'm autodidact 🔺 **Ethical Hacker** 🔺.
+- I love studying about 🔺 **Cyber Security** 🔺.
+- I've participated in a Hackathon in [p4s.co](https://p4s.co)
 
 <div id="status" align="center">
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark">    
