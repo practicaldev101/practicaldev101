@@ -11,7 +11,7 @@
   <a href="https://www.tiktok.com/@practicalprogrammer">
      <img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white&style=for-the-badge" alt="TikTok account"/>
   </a>
-  <a href="https://discord.com/channels/@me/915241354496454656?PracticalDev#4606">
+  <a href="https://discord.com/users/915241354496454656">
     <img src="https://img.shields.io/badge/Discord-black?logo=discord&logoColor=white&style=for-the-badge" alt="Discord account"/>
   </a>
     
