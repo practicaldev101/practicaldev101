@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/practical_dev/">
      <img src="https://img.shields.io/badge/Intagram-black?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Account"/>
   </a>
-  <a href="https://www.linkedin.com/in/carlos-mauricio-ospino-monsalve-383a42227/">
+  <a href="https://www.linkedin.com/in/carlosospino">
      <img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkeIn account"/>
   </a>
   <a href="https://www.tiktok.com/@practicalprogrammer">
